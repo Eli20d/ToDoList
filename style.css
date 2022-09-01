@@ -1,0 +1,12 @@
+.cuadrado
+{
+  background : #FDCC68;
+  background : rgba(253, 204, 104, 1);
+  border-style : Solid;
+  border-color : #EC671B;
+  border-color : rgba(236, 103, 27, 1);
+  border-width : 6pt;
+  border-radius : 50pt;
+  -moz-border-radius : 50pt;
+  -webkit-border-radius : 50pt;
+}
